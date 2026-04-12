@@ -2,14 +2,16 @@
   "expo": {
     "name": "BicycleStatsTracker",
     "slug": "BicycleStatsTracker",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "bicyclestatstracker",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mrloke.BicycleStatsTracker",
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,8 +20,11 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
+      "softwareKeyboardLayoutMode": "resize",
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "versionCode": 1,
+      "package": "com.mrloke.BicycleStatsTracker"
     },
     "web": {
       "output": "static",
