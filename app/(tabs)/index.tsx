@@ -32,7 +32,7 @@ const HomeScreen = () => {
           Zarejestruj się
         </Text>
       </Link>
-      <Link href="/heroScreen">
+      <Link href="/hero-screen">
         <Text color="$orange10" fontWeight="bold">
           Start
         </Text>
