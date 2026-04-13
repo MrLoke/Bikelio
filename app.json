@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "BicycleStatsTracker",
-    "slug": "BicycleStatsTracker",
+    "name": "Bikelio",
+    "slug": "Bikelio",
     "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "bicyclestatstracker",
+    "scheme": "bikelio",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mrloke.BicycleStatsTracker",
+      "bundleIdentifier": "com.mrloke.Bikelio",
       "buildNumber": "1"
     },
     "android": {
@@ -24,7 +24,7 @@
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "versionCode": 1,
-      "package": "com.mrloke.BicycleStatsTracker"
+      "package": "com.mrloke.Bikelio"
     },
     "web": {
       "output": "static",
